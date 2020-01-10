@@ -1,0 +1,11 @@
+C:\Users\chadc\source\repos\DogConsoleApp\DogConsoleApp\bin\Debug\netcoreapp3.1\DogConsoleApp.exe
+C:\Users\chadc\source\repos\DogConsoleApp\DogConsoleApp\bin\Debug\netcoreapp3.1\DogConsoleApp.deps.json
+C:\Users\chadc\source\repos\DogConsoleApp\DogConsoleApp\bin\Debug\netcoreapp3.1\DogConsoleApp.runtimeconfig.json
+C:\Users\chadc\source\repos\DogConsoleApp\DogConsoleApp\bin\Debug\netcoreapp3.1\DogConsoleApp.runtimeconfig.dev.json
+C:\Users\chadc\source\repos\DogConsoleApp\DogConsoleApp\bin\Debug\netcoreapp3.1\DogConsoleApp.dll
+C:\Users\chadc\source\repos\DogConsoleApp\DogConsoleApp\bin\Debug\netcoreapp3.1\DogConsoleApp.pdb
+C:\Users\chadc\source\repos\DogConsoleApp\DogConsoleApp\obj\Debug\netcoreapp3.1\DogConsoleApp.csprojAssemblyReference.cache
+C:\Users\chadc\source\repos\DogConsoleApp\DogConsoleApp\obj\Debug\netcoreapp3.1\DogConsoleApp.AssemblyInfoInputs.cache
+C:\Users\chadc\source\repos\DogConsoleApp\DogConsoleApp\obj\Debug\netcoreapp3.1\DogConsoleApp.AssemblyInfo.cs
+C:\Users\chadc\source\repos\DogConsoleApp\DogConsoleApp\obj\Debug\netcoreapp3.1\DogConsoleApp.dll
+C:\Users\chadc\source\repos\DogConsoleApp\DogConsoleApp\obj\Debug\netcoreapp3.1\DogConsoleApp.pdb
